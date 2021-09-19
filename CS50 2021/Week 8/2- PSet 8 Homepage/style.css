@@ -1,0 +1,259 @@
+.block-text {
+  text-align: left;
+}
+
+.home-container {
+  width: 100%;
+  height: 100%;
+  background-color:#c7b4a3;
+}
+
+.jt-home {
+  background-color:#95A0AA;
+  color: #141719;
+  font-size: 14pt;
+  padding-top: 30pt;
+}
+
+#head-sm {
+  font-style: italic;
+}
+
+.jt-img-home {
+  border: solid white;
+  margin-right: 25px;
+  width: 250px;
+}
+
+.text {
+  background: white;
+  padding: 15px;
+  font-size: 12pt;
+}
+
+.table-wrapper-scroll-y {
+  display: block;
+  max-height: 500px;
+  overflow-y: auto;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  font-size: 18px;
+  background: white;
+}
+
+.gallery-container {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+.jt-Chabahar {
+  background-color:#96AA95;
+  color: #141719;
+  margin-bottom: 3px;
+  font-size: 14pt;
+  padding-top: 30pt;
+}
+
+.jt-villages {
+  background-color:#9e8b7a;
+  color: #141719;
+  margin-bottom: 3px;
+  font-size: 14pt;
+  padding-top: 30pt;
+}
+
+.jt-cfz {
+  background-color:#88b3c0;
+  color: #141719;
+  margin-bottom: 3px;
+  font-size: 14pt;
+  padding-top: 30pt;
+}
+
+.jt-img-gall {
+  border: solid white;
+  margin-right: 25px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.grid {
+  border: solid white 2px;
+  border-radius: 5px;
+}
+
+.grid:hover {
+  border: solid white 3px;
+}
+
+div.photos {
+  line-height: 0;
+
+  -webkit-column-count: 5;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    5;
+  -moz-column-gap:      0px;
+  column-count:         5;
+  column-gap:           0px;
+  margin-bottom:        3px;
+}
+
+div.photos img {
+  width: 100% !important;
+  height: auto !important;
+}
+
+@media (max-width: 1199.98px) {
+  div.photos {
+  -moz-column-count:    4;
+  -webkit-column-count: 4;
+  column-count:         4;
+  }
+}
+
+@media (max-width: 991.98px) {
+  div.photos {
+  -moz-column-count:    3;
+  -webkit-column-count: 3;
+  column-count:         3;
+  }
+}
+
+@media (max-width: 767.98px) {
+  div.photos {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .home-container {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .gallery-container {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .container {
+   display: inline-block;
+   width: auto;
+  }
+
+  .jumbo-head {
+   padding-top: 10pt;
+   font-size: 22pt;
+   text-align: center;
+  }
+
+  #head-sm {
+   font-size: 18pt;
+  }
+
+  .block-text {
+   font-size: 12pt;
+  }
+
+  .jt-img-home {
+  margin-right: 0px;
+  }
+
+  .jt-img-gall {
+  margin-right: 0px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  div.photos {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+
+  .home-container {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .gallery-container {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .container {
+   display: inline-block;
+  }
+
+  .jumbo-head {
+   padding-top: 10pt;
+   font-size: 22pt;
+   text-align: center;
+  }
+
+  #head-sm {
+   font-size: 14pt;
+  }
+
+  .block-text {
+   font-size: 12pt;
+  }
+
+  .jt-img-home {
+  margin-right: 0px;
+  }
+
+  .jt-img-gall {
+  margin-right: 0px;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  main h2 {
+    font-size: 80px !important;
+    margin-bottom:0px;
+    margin-top:0px;
+  }
+
+  header nav ul a{
+    font-size: 60px !important;
+  }
+
+  section h2 {
+    font-size: 60px !important;
+    text-align: center !important;
+  }
+
+  section p {
+    font-size: 40px !important;
+    text-align: center !important;
+  }
+
+  section a {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-size: 40px !important;
+  }
+
+  footer .card-header {
+    font-size: 60px;
+    font-family: "Abril Fatface";
+
+  }
+
+  footer h3 {
+    font-size: 40px;
+    font-family:"Quicksand";
+  }
+
+  footer p {
+    font-size: 40px;
+  }
+
+  footer .card-footer {
+    font-size: 30px;
+  }
+}
