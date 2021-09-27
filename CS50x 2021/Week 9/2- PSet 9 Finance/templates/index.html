@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block title %}
+    Portfolio
+{% endblock %}
+{% block main %}
+<table class="table table-striped table-bordered">
+    <tr class="bg-light">
+        <td class="bold">Symbol</td>
+        <td class="bold">Name</td>
+        <td class="bold">Shares</td>
+        <td class="bold">Price</td>
+        <td class="bold">TOTAL</td>
+    </tr>
+    {% for data in bigdata %}
+    </div>
+    <tr>
+            <td>{{ data.symbol }}</td>
+            <td>{{ data.name }}</td>
+            <td>{{ data['SUM(shares)'] }}</td>
+            <td>{{ data.price | usd }}</td>
+            <td>{{ data.total | usd }}</td>
+    </tr>
+    {% endfor %}
+    <tr>
+        <td>CASH</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>{{ balance | usd }}</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="bold">{{ grandtotal | usd }}</td>
+    </tr>
+</table>
+{% endblock %}

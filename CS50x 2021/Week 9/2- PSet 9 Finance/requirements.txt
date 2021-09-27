@@ -1,0 +1,17 @@
+cs50
+Flask
+Flask-Session
+requests
+certifi
+chardet
+Click
+gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy
+sqlparse
+termcolor
+urllib3
+Werkzeug
