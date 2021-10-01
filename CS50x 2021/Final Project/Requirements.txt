@@ -1,0 +1,7 @@
+cs50
+flask
+flask_session
+werkzeug
+tempfile
+random
+math

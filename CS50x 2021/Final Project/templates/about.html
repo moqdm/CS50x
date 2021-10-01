@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}About the forum | {% endblock %}
+
+{% block body %}
+
+<h2 style="margin-bottom:10px">Welcome to Chabahar problems forum.</h2>
+
+<p style="margin-bottom:10px">We see countless problems in the city every day.
+Problems that officials may not realize or take action to solve due to their busy
+schedule. This site has been created to be a reference to be informed about the
+urban problems and difficulties of Chabahar county. If you are a newcomer or a tourist,
+check this out <a href="https://moqdm.github.io/cs50/Homepage/">About Chabahar county</a>.</p>
+
+<div class="card bg-light mb-3" style="width: 18rem; margin-top:30px">
+  <div class="card-body">
+    <h5 class="card-title">Statistics</h5>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">{{ problems_count }} problems</li>
+    <li class="list-group-item">{{ users_count }} users</li>
+    <li class="list-group-item">{{ comments_count }} comments</li>
+  </ul>
+</div>
+
+{% endblock %}
