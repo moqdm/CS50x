@@ -1,5 +1,5 @@
-# CS50: Introduction to Computer Science
-Hi! There are my CS50x 2021 PSets solution... *Please just take a look if you couldn't solve it ... Thank you 🙂 #cs50
+# ***CS50: Introduction to Computer Science
+Hi! There are my CS50x 2021 PSets solution... *Please just take a look if you couldn't solve it ... Thank you 🙂 #cs50***
 
 ## ***CS50x Iran (Summer-2021):***
 
@@ -22,5 +22,11 @@ Hi! There are my CS50x 2021 PSets solution... *Please just take a look if you co
 - [1- Lab 3 Sort](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/1-%20Lab%203%20Sort)
 - [2- PSet 3 Plurality](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/2-%20PSet%203%20Plurality)
 - [3- PSet 3 Runoff](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/3-%20PSet%203%20Runoff)
+
+### ***Week 3***
+- [1- Lab 3 Sort](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/1-%20Lab%203%20Sort)
+- [1- Lab 3 Sort](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/1-%20Lab%203%20Sort)
+- [1- Lab 3 Sort](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/1-%20Lab%203%20Sort)
+- [1- Lab 3 Sort](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%203/1-%20Lab%203%20Sort)
 
 ![certificate](https://b2n.ir/p06790)
