@@ -75,7 +75,7 @@
 
 ### ***Final Project***
 > 📖 [Final Project](https://cs50.harvard.edu/x/2021/project/)
-- [Chabahar problems forum](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Final%20Project)
+- [Chabahar problems forum](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Final%20Project) | 🎞🎬 [view](https://moqdm.github.io/cs50/Homepage)
 
 ## ***Done!***
 
