@@ -3,9 +3,7 @@
 
 - ***Please observe the rules of [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty).***
 
-*Thanks!🙂*
-
-*#CS50*
+*Thanks!🙂 #CS50*
 
 ## ***CS50x Iran (Summer-2021):***
 
