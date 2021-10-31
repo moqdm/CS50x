@@ -13,7 +13,7 @@ can be extended to all cities and countries.
 
 > Send your comments and suggestions about the project to my [E-mail](mailto:m.a.moghadma8412@gmail.com).
 
-- Video Demo: [YouTube](https://youtu.be/KIOLI9Wfjzw).
+- Demo video: [YouTube](https://youtu.be/KIOLI9Wfjzw).
 > If you are in a country where YouTube is filtered, please turn on your VPN before clicking on link. 🙂
 
 ### ***Usage:***
