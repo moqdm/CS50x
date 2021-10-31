@@ -1,7 +1,7 @@
 # ***CS50: Introduction to Computer Science***
 ***Hi! There are my CS50x 2021 PSets solution...***
 
-***Please observe the rules of [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty).***
+- ***Please observe the rules of [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty).***
 
 ***Thanks!🙂***
 
