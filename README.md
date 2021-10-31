@@ -1,5 +1,5 @@
-# ***CS50: Introduction to Computer Science
-Hi! There are my CS50x 2021 PSets solution... *Please just take a look if you couldn't solve it ... Thank you 🙂 #cs50***
+# ***CS50: Introduction to Computer Science***
+***Hi! There are my CS50x 2021 PSets solution... *Please just take a look if you couldn't solve it ... Thank you 🙂 #cs50***
 
 ## ***CS50x Iran (Summer-2021):***
 
