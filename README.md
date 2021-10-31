@@ -57,8 +57,8 @@
 
 ### ***Week 8***
 > 📖 [HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2021/weeks/8)
-- [1- Lab 8 Trivia](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%208/1-%20Lab%208%20Trivia)
-- [2- PSet 8 Homepage](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%208/2-%20PSet%208%20Homepage)
+- [1- Lab 8 Trivia](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%208/1-%20Lab%208%20Trivia) [view](https://moqdm.github.io/cs50/Trivia)
+- [2- PSet 8 Homepage](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%208/2-%20PSet%208%20Homepage) [view](https://moqdm.github.io/cs50/Homepage)
 
 ### ***Week 9***
 > 📖 [Flask](https://cs50.harvard.edu/x/2021/weeks/9)
