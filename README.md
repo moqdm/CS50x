@@ -4,7 +4,7 @@ Hi! There are my CS50x 2021 PSets solution... *Please just take a look if you co
 ## ***CS50x Iran (Summer-2021):***
 
 ### ***Week 0***
-- 1- Pset 0 Scratch
+- [1- Pset 0 Scratch](https://cs50.harvard.edu/x/2021/psets/0/scratch)
 
 ### ***Week 1***
 - [1- Lab 1 Population Growth](https://github.com/moqdm/CS50x/tree/main/CS50x%202021/Week%201/1-%20Lab%201%20Population%20Growth)
